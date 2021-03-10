@@ -1,0 +1,1 @@
+Note that the test CSVs in each folder also contain the validation set. The validation.csv folder contains the images from the test set which were instead used for validation.

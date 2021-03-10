@@ -1,0 +1,32 @@
+2020-09-24-1
+Number of valid images: 1437 Total images: 1501
+2020-09-24-2
+Number of valid images: 263 Total images: 290
+2020-10-02-10-17-05-3
+Number of valid images: 517 Total images: 565
+2020-10-02-10-17-05-2
+Number of valid images: 188 Total images: 210
+2020-09-23-VIRB0001
+Number of valid images: 78 Total images: 82
+2020-09-23-VIRB0002
+Number of valid images: 89 Total images: 111
+2020-09-23-VIRB0004
+Number of valid images: 37 Total images: 53
+2020-09-23-VIRB0008
+Number of valid images: 77 Total images: 95
+2020-09-29-09-46-42-4
+Number of valid images: 664 Total images: 713
+2020-09-24-3
+Number of valid images: 1434 Total images: 1501
+2020-09-24-4
+Number of valid images: 353 Total images: 356
+2020-07-28-06-01-11
+Number of valid images: 1367 Total images: 1501
+2020-09-29-09-46-42-1
+Number of valid images: 1416 Total images: 1501
+2020-09-29-09-46-42-2
+Number of valid images: 1331 Total images: 1501
+2020-10-02-10-17-05-1
+Number of valid images: 1422 Total images: 1501
+2020-09-29-09-46-42-3
+Number of valid images: 1445 Total images: 1501
